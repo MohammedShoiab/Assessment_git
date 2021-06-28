@@ -1,1 +1,2 @@
 welcome to Feature2 first commit
+Feature2 second commit
